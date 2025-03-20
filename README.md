@@ -30,6 +30,8 @@ Donner un role à chacun, Ecrire un script, Leurs donner des mails en papier,Cla
 
 Commencez par leur donner des instructions pour un bullshit job sans leur donner d'autres indications que le fait qu'ils sont dans une sorte de jeu de rôle. Un tableau de classement les classait en temps réel en fonction de l'efficacité de leur travail et de leur réaction aux différentes données que je leur donnais. Les instructions les incitaient à faire des copies manuelles ennuyeuses d'une liste de noms ou des calculs répétitifs. Je leur ai ensuite donné de faux courriels qui peuvent perturber ces tâches et changer les règles du jeu. Le jeu se termine à l'issue d'un délai de 15 minutes.
 
+
+
 **Exemple d'instructions:**
 
 *Dear Intern,Welcome to your first day at OptiCorp Solutions! We are excited to have you on board as we strive for excellence in all aspects of our operations. Your Role: Nominative Administrative Employee Your main mission is to complete essential sorting and copying tasks to ensure the smooth operation of our system. The AI of the company gave us a new way of sorting our file please follow it. Your task starting today will be the following:Manually copy the names listed in the company files on a blank document and organize them following naturalalphabetical flow.*
@@ -91,4 +93,3 @@ Avoir un temps dédié pour déroger à la règle / une porte d'entrée pour fai
 ![](C:/Users/Artem/AppData/Roaming/bluestone/.images/195b3e272df.png)
 
 ### Février: Début des recherches
-

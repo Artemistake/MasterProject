@@ -2,8 +2,6 @@
 
 Lien Miro (Refs visuelles, MoodBoards): [ici](https://miro.com/welcomeonboard/QjJ5QUJ4MVZKazdYSFB6bVBZYVNBS1o5MXBoUFZwM0xOZHJOcE85UW1nTVdQejgzb3BOQm1pSDV3RzdGbXhtdTVuUUpSRG1VSFlLMFh5dm5PZkhXWFRwYi82WmdLZFZTR0tJejRidWxPRjNwU1hFWjdmdHY5dUFHNUNGeitqV2t0R2lncW1vRmFBVnlLcVJzTmdFdlNRPT0hdjE=?share_link_id=49175457146).
 
-
-
 ### Articles:
 
 [Reverse_Turing_test](https:/en.wikipedia.org/wiki/Reverse_Turing_test%0D%0A)
@@ -99,4 +97,3 @@ Lien Miro (Refs visuelles, MoodBoards): [ici](https://miro.com/welcomeonboard/Qj
 ### Vidéos:
 
 [Fake ChatGPT](https:/www.youtube.com/watch?v=5cDe5vkq9cs)
-
