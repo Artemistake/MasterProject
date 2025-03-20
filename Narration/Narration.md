@@ -14,8 +14,6 @@ Peut être qu'on commence en se faisant "remplacer" par une IA dans notre travai
 
 
 
-
-
 ### AI Slop:
 
 **Titre provisoire :** "Ghosts in the Machine"
