@@ -50,7 +50,7 @@ Thomas Kinter						Helen Farnsworth					Sarah Dindle
 Evelyn Draston					Oliver Quayne							Jonathan Flick  
 Marcus Vlayne						Lillian Draycott						Wendy Harnet
 
-<img src="C:/Users/Artem/AppData/Roaming/bluestone/.images/195b3ce45f3.png" alt="" width="251"/><img src="C:/Users/Artem/AppData/Roaming/bluestone/.images/195b3cf831e.png" alt="" width="245"/><img src="C:/Users/Artem/AppData/Roaming/bluestone/.images/195b3d069f9.png" alt="" width="248"/>
+<img src="C:/Users/Artem/AppData/Roaming/bluestone/.images/195b3ce45f3.png" alt="" width="253"/><img src="C:/Users/Artem/AppData/Roaming/bluestone/.images/195b3cf831e.png" alt="" width="248"/><img src="C:/Users/Artem/AppData/Roaming/bluestone/.images/195b3d069f9.png" alt="" width="251"/>
 
 
 

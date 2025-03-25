@@ -8,6 +8,8 @@ Pas vraiment un grand remplacement du travail par les machines mais une transfor
 
 Peut être qu'on commence en se faisant "remplacer" par une IA dans notre travail mais au final on fait la même chose mais microdosé et à distance.
 
+punition pour t'être trompé: tu dois re-trier les motos
+
 
 
 
@@ -45,4 +47,3 @@ Vous incarnez un utilisateur lambda, survivant dans cette dystopie numérique. C
    - Rejoindre un groupe clandestin essayant de perturber les algorithmes ?
    - Tenter une déconnexion totale, avec le risque de tout perdre ?
    - Plusieurs fins possibles, allant du conformisme au sabotage total du système.
-
