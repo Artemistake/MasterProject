@@ -12,7 +12,7 @@ Première idée forme du prototype:
 
 6 Ateliers courts chronométrés:
 
-3 minutes par ateliers avec une alarme relou qui bip régulièrementJe passe derrière chaque atelier pour compter les points Chaque atelier est expliqué sur une feuille avec un quota attendu en 3m****Faire un classement à la fin des ateliers
+3 minutes par ateliers avec une alarme relou qui bip régulièrement, Je passe derrière chaque atelier pour compter les points Chaque atelier est expliqué sur une feuille avec un quota attendu en 3m (Faire un classement à la fin des ateliers)
 
 1. Trier les noms par taille de mot en les recopiant
 2. Trier les dossiers sur ordinateur
@@ -51,12 +51,6 @@ Evelyn Draston					Oliver Quayne							Jonathan Flick
 Marcus Vlayne						Lillian Draycott						Wendy Harnet
 
 
-![[TestDay.png]]
-
-![[TestDay3.png]]
-
-![[TestDeux.png]]
-
 #### Insights TestDay:
 
 La compréhension des instructions peut prendre du temps. Dès que vous les comprenez, même partiellement, vous voulez aller le plus vite possible.
@@ -93,7 +87,7 @@ Avoir un temps dédié pour déroger à la règle / une porte d'entrée pour fai
 
 #### Poster Fin WiP:
 
-![[Poster.png]]
 
 ### Février: Début des recherches
+
 
