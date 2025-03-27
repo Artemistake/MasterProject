@@ -24,6 +24,10 @@ Lien Miro (Refs visuelles, MoodBoards): [ici](https://miro.com/welcomeonboard/Qj
 
 [Fake AI](https:/miro.com/app/board/uXjVLceYGUI=/?moveToWidget=3458764618518138448&cot=14)
 
+[leaked-recording-inside-apple-s-global-war-on-leakers](https:/theoutline.com/post/1766/leaked-recording-inside-apple-s-global-war-on-leakers)
+
+
+
 
 
 ### Démos Techniques:
@@ -45,6 +49,8 @@ Lien Miro (Refs visuelles, MoodBoards): [ici](https://miro.com/welcomeonboard/Qj
 [The Cleaners](https:/miro.com/app/board/uXjVLceYGUI=/?moveToWidget=3458764618517302899&cot=14)
 
 [Sacrifiés de l'IA](https:/miro.com/app/board/uXjVLceYGUI=/?moveToWidget=3458764618517390804&cot=14)
+
+[en-attendant-les-robots](https:/www.lesyeuxdoc.fr/film/2949/en-attendant-les-robots)
 
 
 
@@ -70,11 +76,17 @@ Lien Miro (Refs visuelles, MoodBoards): [ici](https://miro.com/welcomeonboard/Qj
 
 [www.molleindustria](https:/www.molleindustria.org/)
 
+[itisasifyouweredoingwork](https:/pippinbarr.com/itisasifyouweredoingwork/)
+
+[FACEMINER](https:/store.steampowered.com/app/2276980/FACEMINER/)
+
 
 
 ### Films:
 
+[The_Big_Short_:_Le_Casse_du_si%C3%A8cle](https:/fr.wikipedia.org/wiki/The_Big_Short_:_Le_Casse_du_si%25C3%25A8cle)
 
+[Moon_(2009_film)](https:/en.wikipedia.org/wiki/Moon_(2009_film))
 
 ### BDs:
 
