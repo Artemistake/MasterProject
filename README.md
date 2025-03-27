@@ -50,9 +50,12 @@ Thomas Kinter						Helen Farnsworth					Sarah Dindle
 Evelyn Draston					Oliver Quayne							Jonathan Flick  
 Marcus Vlayne						Lillian Draycott						Wendy Harnet
 
-<img src="C:/Users/Artem/AppData/Roaming/bluestone/.images/195b3ce45f3.png" alt="" width="253"/><img src="C:/Users/Artem/AppData/Roaming/bluestone/.images/195b3cf831e.png" alt="" width="248"/><img src="C:/Users/Artem/AppData/Roaming/bluestone/.images/195b3d069f9.png" alt="" width="251"/>
 
+![[TestDay.png]]
 
+![[TestDay3.png]]
+
+![[TestDeux.png]]
 
 #### Insights TestDay:
 
@@ -90,6 +93,7 @@ Avoir un temps dédié pour déroger à la règle / une porte d'entrée pour fai
 
 #### Poster Fin WiP:
 
-![](C:/Users/Artem/AppData/Roaming/bluestone/.images/195b3e272df.png)
+![[Poster.png]]
 
 ### Février: Début des recherches
+
