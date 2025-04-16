@@ -50,7 +50,6 @@ Thomas Kinter						Helen Farnsworth					Sarah Dindle
 Evelyn Draston					Oliver Quayne							Jonathan Flick  
 Marcus Vlayne						Lillian Draycott						Wendy Harnet
 
-
 #### Insights TestDay:
 
 La compréhension des instructions peut prendre du temps. Dès que vous les comprenez, même partiellement, vous voulez aller le plus vite possible.
@@ -87,7 +86,86 @@ Avoir un temps dédié pour déroger à la règle / une porte d'entrée pour fai
 
 #### Poster Fin WiP:
 
-
 ### Février: Début des recherches
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### MidCrit Avril
+
+
+
+
+
+| **Tâche de Clickworking / Digital Labour**                                                                                                     | **Mécanique de Jeu Vidéo / Gamification**                              | **Effet Psychologique / Narratif**                   | **Exploitation Cachée**                            |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ---------------------------------------------------- | -------------------------------------------------- |
+| **Annotation de sentiments (classer des phrases selon leur tonalité)**Annotation de sentiments (classer des phrases selon leur tonalité)       | Choix multiples avec feedback immédiat Barre de progression            | Sensation de maîtrise Apprentissage gratifiant       | Entraînement d'IA pour modération ou marketing     |
+| **Correction de texte / grammaire (améliorer des phrases générées)**Correction de texte / grammaire (améliorer des phrases générées)           | Mini-jeu de "réparation" de phrases Points pour chaque correction      | Impression d'aider une IA "en apprentissage"         | Amélioration gratuite de modèles linguistiques     |
+| **Transcription audio (écouter et retranscrire des enregistrements)**Transcription audio (écouter et retranscrire des enregistrements)         | Jeu d'écoute avec récompenses pour la précision Déblocage de "niveaux" | Immersion dans une mission "découverte"              | Formation de systèmes de reconnaissance vocale     |
+| **Étiquetage d'images (identifier des objets sur des photos)**Étiquetage d'images (identifier des objets sur des photos)                       | Jeu de reconnaissance visuelle Collection d'objets virtuels            | Satisfaction de "compléter" une collection           | Entraînement de systèmes de vision par ordinateur  |
+| **Évaluation de traductions (comparer des versions traduites)**Évaluation de traductions (comparer des versions traduites)                     | Jeu de comparaison linguistique Points pour la sélection "correcte"    | Impression de contribuer à la communication mondiale | Amélioration de services de traduction automatique |
+| **Filtrage de contenu sensible (identifier du contenu inapproprié)**Filtrage de contenu sensible (identifier du contenu inapproprié)           | Jeu de "nettoyage" de données Feedback positif pour chaque suppression | Sensation de protéger une communauté virtuelle       | Modération de contenu sans soutien psychologique   |
+| **Matching sémantique (déterminer si deux phrases ont le même sens)**Matching sémantique (déterminer si deux phrases ont le même sens)         | Jeu de correspondance Récompenses pour chaque paire correcte           | Défi intellectuel stimulant                          | Raffinement de moteurs de recherche ou chatbots    |
+| **Classement de données (organiser des informations selon des critères)**Classement de données (organiser des informations selon des critères) | Jeu de tri avec chronomètreBadges pour rapidité                        | Pression temporelle augmentant l'engagement          | Organisation de données pour des bases d'IA        |
+
+
+
+[https://www.simondor.com/blog/2019/10/playbour.html](https://www.simondor.com/blog/2019/10/playbour.html)
+
+[Precarious playbour: Modders and the digital games industry](https://scholar.google.com/scholar?cluster=14521262651973775503&hl=en&oi=scholarr)
 
